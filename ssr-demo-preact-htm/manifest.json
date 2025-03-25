@@ -1,0 +1,21 @@
+{
+    "name": "ssr-demo-preact-htm",
+    "exports": {
+        "src/entry.client": "src/entry.client.5dd4a707.final.js"
+    },
+    "buildFiles": [
+        "src/entry.client.5dd4a707.final.js"
+    ],
+    "chunks": {
+        "ssr-demo-preact-htm@src/entry.client.ts": {
+            "js": "./src/entry.client.5dd4a707.final.js",
+            "css": [],
+            "resources": [],
+            "sizes": {
+                "js": 14721,
+                "css": 0,
+                "resource": 0
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "ssr-demo-html",
+    "exports": {
+        "src/entry.client": "src/entry.client.9a5de29e.final.js"
+    },
+    "buildFiles": [
+        "src/entry.client.9a5de29e.final.js"
+    ],
+    "chunks": {
+        "ssr-demo-html@src/entry.client.ts": {
+            "js": "./src/entry.client.9a5de29e.final.js",
+            "css": [],
+            "resources": [],
+            "sizes": {
+                "js": 2536,
+                "css": 0,
+                "resource": 0
+            }
+        }
+    }
+}
